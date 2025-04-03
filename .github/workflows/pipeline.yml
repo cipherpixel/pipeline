@@ -1,4 +1,4 @@
-name: pytton pipeline
+name: python pipeline
 on: push
 jobs:
   test: 
